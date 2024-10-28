@@ -1,0 +1,4 @@
+Hola Munto desde un fichero .txt
+linea 2
+linea 4
+Hala Madrid
